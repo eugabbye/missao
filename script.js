@@ -12,7 +12,7 @@ const perguntas = [
                 texto: " Rosa ",
                 afirmacao: " Você é uma pessoa boiola. "
             },
-            {Energia solar o point do momento
+            {
                 texto: "Azul",
                 afirmacao: " RESPOSTA ERRADA, SÓ EXISTE O ROSA. "
             }
