@@ -6,28 +6,28 @@ const textoResultado = document.querySelector(".texto-resultado");
 
 const perguntas = [
     {
-        enunciado: "A energia solar é uma fonte de energia renovável e sustentável que é obtida apartir da luz do sol. Diante disso: ",
+        enunciado: "Você prefere as cores... ",
         alternativas: [
             {
-                texto: "Você investiria em energia solar?",
-                afirmacao: "Você é uma pessoa preocupada com o meio ambiente e pensa na economia ao longo prazo, bem como energia limpa e renovável."
+                texto: "Rosa",
+                afirmacao: "Você é uma pessoa boiola."
             },
-            {
-                texto: "Você continua com a energia hidreelétrica?",
-                afirmacao: "Você é resistente a mudanças e prefere a praticidade da energia que conhece "
+            {Energia solar o point do momento
+                texto: "Azul",
+                afirmacao: "RESPOSTA ERRADA, SÓ EXISTE O ROSA."
             }
         ]
     },
     {
-        enunciado: "Pensando em energia renovável e sustentável, e em recursos naturais inesgotáveis ",
+        enunciado: "Você prefere comer... ",
         alternativas: [
             {
-                texto: "Você pensa na energia solar como renovável e sustentável",
-                afirmacao: "Esta fonte aproveita a radiação solar ou o calor para gerar eletricidade, o que a torna uma alternativa limpa e sustentável às fontes de energia convencionais que emitem poluentes atmosféricos",
+                texto: "Macarrão com almondegas",
+                afirmacao: "Você adora uma almondega",
             },
             {
-                texto: "Acredita que a energia hidreelétrica é uma energia renovável e sustentável",
-                afirmacao: " é uma energia renovável - ilimitada no tempo - porque são as suas fontes que se renovam, ou seja, rios e riachos alimentados pelo ciclo natural da água. "
+                texto: "Sushi",
+                afirmacao: " Você não se importa com os peixinhos do procurando nemo. "
             }
         ]
     },
