@@ -6,15 +6,15 @@ const textoResultado = document.querySelector(".texto-resultado");
 
 const perguntas = [
     {
-        enunciado: "Você prefere as cores... ",
+        enunciado: " Você prefere as cores... ",
         alternativas: [
             {
-                texto: "Rosa",
-                afirmacao: "Você é uma pessoa boiola."
+                texto: " Rosa ",
+                afirmacao: " Você é uma pessoa boiola. "
             },
             {Energia solar o point do momento
                 texto: "Azul",
-                afirmacao: "RESPOSTA ERRADA, SÓ EXISTE O ROSA."
+                afirmacao: " RESPOSTA ERRADA, SÓ EXISTE O ROSA. "
             }
         ]
     },
@@ -22,11 +22,11 @@ const perguntas = [
         enunciado: "Você prefere comer... ",
         alternativas: [
             {
-                texto: "Macarrão com almondegas",
-                afirmacao: "Você adora uma almondega",
+                texto: " Macarrão com almondegas ",
+                afirmacao: " Você adora uma almondega ",
             },
             {
-                texto: "Sushi",
+                texto: " Sushi ",
                 afirmacao: " Você não se importa com os peixinhos do procurando nemo. "
             }
         ]
