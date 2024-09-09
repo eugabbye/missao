@@ -32,6 +32,75 @@ const perguntas = [
         ]
     },
     {
+        enunciado: "Você costuma ler? ",
+        alternativas: [
+            {
+                texto: " Sim ",
+                afirmacao: " Você gosta de ler fanfics hots ",
+            },
+            {
+                texto: " Não ",
+                afirmacao: " Você será analfabeto "
+            }
+        ]
+    },
+    {
+        enunciado: "Qual você prefere? ",
+        alternativas: [
+            {
+                texto: " Hello Kitty ",
+                afirmacao: " você é modinha, ",
+            },
+            {
+                texto: " Cinnamoroll ",
+                afirmacao: " temos mais uma prova de que você é gay. "
+            }
+        ]
+    },
+    {
+        enunciado: "Qual você escolheria",
+        alternativas: [
+            {
+                texto: " Mataria seu pior inimigo ",
+                afirmacao: " Você será preso por um assasinato. ",
+            },
+            {
+                texto: " Roubaria sua professora mais odiada ",
+                afirmacao: " Você será preso por assalto em flagrante. "
+            }
+        ]
+    },
+    {
+        enunciado: "Você tem medo de que?",
+        alternativas: [
+            {
+                texto: " Ver fantasmas ",
+                afirmacao: " Em 2028, você presenciou sua primeira aparição sobrenatural, ao buscar ajuda profissional, seu psicólogo te classificou como esquizofrênico.  ",
+            },
+            {
+                texto: " Ver uma situção chocante ",
+                afirmacao: " Você ficou traumatizadno em 2045 ao, após ver um seu amigo da escola, fugir do hospício por ser classificado como esquizofrênico e sair pelado correndo pela rua, falando sobre aparições fantasmagóricas. "
+            }
+        ]
+    },
+    {
+        enunciado: " Quem você gosta mais? ",
+        alternativas: [
+            {
+                texto: " Bruna ",
+                afirmacao: " Você e a Bruna continuaram amigas a vida toda. ",
+            },
+            {
+                texto: " Gabriela ",
+                afirmacao: " Você e a Gabriela continuaram amigas na vida toda."
+            },
+            {
+                texto: " Bianca ",
+                afirmacao: " Você e a Bianca continuaram amigas na vida toda."
+            }
+        ]
+    },
+    {
         enunciado: "Você tem seus cadernos completos?",
         alternativas: [
             {
