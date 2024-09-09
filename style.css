@@ -4,7 +4,7 @@
     --cor-secundaria: #3d4688; 
     --cor-destaque: #000000;
     --cor-texto: #D7F9FF;
-
+    --fonte-principal: "Poppins";
 }
 
 body {
@@ -14,6 +14,7 @@ body {
     justify-content: center;
     align-items: center;
     min-height: 100vh;
+    font-family: var(--fonte-principal);
 }
 
 .caixa-principal{
